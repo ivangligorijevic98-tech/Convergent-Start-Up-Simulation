@@ -39,6 +39,35 @@ You can interact with the prototype directly in Figma:
 
 ---
 
+# Future Improvements / Roadmap
+
+This prototype demonstrates the core flow of how player decisions affect the Projected Impact panel and next quarter outcomes. The following improvements could be considered for future iterations:
+
+## Interactivity Enhancements
+- Enable **fully interactive sliders and buttons** that update the Projected Impact panel in real time.
+- Allow **draggable or adjustable UI elements** for a more realistic simulation experience.
+- Integrate **dynamic consequences** based on combined decisions rather than pre-built states.
+
+## Design System & Components
+- Develop a **comprehensive design system** to ensure consistency and reusability across future iterations.
+- Standardize components, typography, and colors to support scalability.
+
+## User Research & Testing
+- Conduct **user testing** to validate understanding of the decision → impact feedback loop.
+- Gather insights on clarity, usability, and visual hierarchy.
+- Iterate on interface based on testing results.
+
+## Competitor Analysis & Benchmarking
+- Compare against existing business simulation dashboards to identify potential improvements.
+- Incorporate relevant best practices into the prototype.
+
+## Advanced Features (Post-MVP)
+- Add **multi-quarter tracking** with cumulative impact visualization.
+- Introduce **scenario branching** to simulate risk/reward strategies.
+- Implement **personalized recommendations** based on player behavior.
+
+This roadmap is intended to guide future development while keeping the MVP focused on testing the decision-to-impact feedback flow. Additional features and refinements can be prioritized based on user testing and project goals.
+
 ##  Notes for Reviewers
 
 - The prototype focuses on demonstrating **decision consequence** visually.
