@@ -6,7 +6,7 @@ This repository contains a **high-fidelity Figma prototype** simulating a turn-b
 
 ---
 
-## 🏗 Prototype Overview
+## Prototype Overview
 
 The prototype allows users to adjust key business decisions and see immediate feedback in the Projected Impact panel. The goal is to make cause-and-effect visible and testable, providing insights into user understanding and decision-making behavior.  
 
@@ -17,7 +17,7 @@ The prototype allows users to adjust key business decisions and see immediate fe
 
 ---
 
-## ✨ What Was Scoped / Descoped
+## What Was Scoped / Descoped
 
 **Descoped / Deferred:**
 - Competitor analysis was not included because there is no existing flow to compare; could be added after MVP.
@@ -39,7 +39,7 @@ You can interact with the prototype directly in Figma:
 
 ---
 
-## 📌 Notes for Reviewers
+##  Notes for Reviewers
 
 - The prototype focuses on demonstrating **decision consequence** visually.
 - Future improvements could include:
@@ -50,4 +50,4 @@ You can interact with the prototype directly in Figma:
 
 ---
 
-## 🗂 Folder Structure
+##  Folder Structure
