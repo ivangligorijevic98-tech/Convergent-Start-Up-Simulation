@@ -32,7 +32,7 @@ The prototype allows users to adjust key business decisions and see immediate fe
 
 ---
 
-## 🔗 Explore the Live Prototype
+##  Explore the Live Prototype
 
 You can interact with the prototype directly in Figma:  
 [Figma Prototype Link]([https://www.figma.com/file/YOUR_FILE_LINK](https://www.figma.com/design/KRj4jRrsmx7fs2bfu3VmcU/StartUp?node-id=1-2&t=qa0yUeROjekyjY35-1))
